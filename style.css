@@ -1,0 +1,25 @@
+*{
+    padding: 10px;
+}
+
+ul{
+  
+    border: 5px solid black;
+}
+
+li{
+    color: green;
+}
+
+.parent{
+    background-color: blue;
+}
+
+.child{
+    color: orange;
+}
+
+#ulist{
+    background-color: aquamarine;
+    border: 2px solid black;
+}
